@@ -5,12 +5,7 @@ body {
   background-color: #f3f1e7;
 }
 
-.newspaper-bg {
-  background-image: url('assets/newspaper-texture.jpg');
-  background-size: cover;
-  background-repeat: repeat;
-  color: #111;
-}
+
 
 .container, .letter-container {
   max-width: 700px;
